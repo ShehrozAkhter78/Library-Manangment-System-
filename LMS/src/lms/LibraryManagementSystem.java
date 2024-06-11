@@ -577,7 +577,7 @@ private JPanel createLoginPanel() {
 
     private boolean authenticate(String username, String password) {
 
-        return username.equals("admin") && password.equals("admin");
+        return username.equals("shehroz") && password.equals("shehroz");
     }
 private JPanel createHomePanel() {
     JPanel home_Panel = new JPanel();
